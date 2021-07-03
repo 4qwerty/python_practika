@@ -22,5 +22,8 @@
 
 Прописуємо 'git clone' плюс силку
 
-![изображение](https://user-images.githubusercontent.com/50421230/124352785-3d87e800-dc0b-11eb-883e-d0998bb7739f.png)
+![изображение](https://user-images.githubusercontent.com/50421230/124352785-3d87e800-dc0b-11eb-883e-d0998bb7739f.png)\
 
+Ну і все ключ успішно привязаний
+
+![изображение](https://user-images.githubusercontent.com/50421230/124352803-67d9a580-dc0b-11eb-9529-531066c43c88.png)
