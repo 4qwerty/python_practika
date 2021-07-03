@@ -12,4 +12,7 @@
 
 ![изображение](https://user-images.githubusercontent.com/50421230/124352438-cd786280-dc08-11eb-88a9-442d40057212.png)
 
+Заходимо в налаштування і знаходимо пункт SSH and GPG keys, вставляємо наш ключ і даємо йому назву
+
+![изображение](https://user-images.githubusercontent.com/50421230/124352660-652a8080-dc0a-11eb-9598-c30ebc13f434.png)
 
