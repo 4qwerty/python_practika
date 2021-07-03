@@ -30,5 +30,6 @@
 
 # Написання програми і додавання в GitHub
 
-![изображение](https://user-images.githubusercontent.com/50421230/124354608-86449e80-dc15-11eb-894f-91cd2001dfc1.png)
+![изображение](https://user-images.githubusercontent.com/50421230/124354732-1be02e00-dc16-11eb-829f-e63fbc1b5c5b.png)
 
+![изображение](https://user-images.githubusercontent.com/50421230/124354796-8002f200-dc16-11eb-8764-92e2703caa02.png)
