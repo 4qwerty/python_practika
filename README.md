@@ -22,7 +22,7 @@
 
 Прописуємо 'git clone' плюс силку яку ми скопіювали попередньо
 
-![изображение](https://user-images.githubusercontent.com/50421230/124352785-3d87e800-dc0b-11eb-883e-d0998bb7739f.png)\
+![изображение](https://user-images.githubusercontent.com/50421230/124352785-3d87e800-dc0b-11eb-883e-d0998bb7739f.png)
 
 Ну і все ключ успішно привязаний
 
