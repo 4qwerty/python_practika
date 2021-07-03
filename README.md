@@ -1,5 +1,3 @@
-# python_practika
-
 # Створення та привязка SSH ключа
 
 Прописуємо в консолі ssh-keygen-t rsa -b 4096 -C “example@gmail.com”(вказавши свою електронну пошту яка привязана до github)
