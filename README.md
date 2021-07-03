@@ -8,4 +8,8 @@
 
 ![изображение](https://user-images.githubusercontent.com/50421230/124352074-bf294700-dc06-11eb-8735-72c3c0d8f04a.png)
 
+Заходимо в публічний ключ та копіюємо
+
 ![изображение](https://user-images.githubusercontent.com/50421230/124352438-cd786280-dc08-11eb-88a9-442d40057212.png)
+
+
