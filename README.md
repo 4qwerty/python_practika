@@ -32,4 +32,4 @@
 
 ![изображение](https://user-images.githubusercontent.com/50421230/124354732-1be02e00-dc16-11eb-829f-e63fbc1b5c5b.png)
 
-![изображение](https://user-images.githubusercontent.com/50421230/124354796-8002f200-dc16-11eb-8764-92e2703caa02.png)
+![изображение](https://user-images.githubusercontent.com/50421230/124354912-2ea73280-dc17-11eb-82a6-a59d12459621.png)
