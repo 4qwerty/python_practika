@@ -27,3 +27,8 @@
 Ну і все ключ успішно привязаний
 
 ![изображение](https://user-images.githubusercontent.com/50421230/124352803-67d9a580-dc0b-11eb-9529-531066c43c88.png)
+
+# Написання програми і додавання в GitHub
+
+![изображение](https://user-images.githubusercontent.com/50421230/124354608-86449e80-dc15-11eb-894f-91cd2001dfc1.png)
+
