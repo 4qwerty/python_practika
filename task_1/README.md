@@ -1,10 +1,9 @@
 #  Пояснення роботи Task-1
 
+Як було написано на [python-scripts.com ](https://python-scripts.com/import-re-regular-expression) > Регулярні вирази - це невеликий мову, Який ви можете використовувати всередині Python і багатьох інших мовах програмування
 ```python
 import re
 ```
-Як було написано на [python-scripts.com ](https://python-scripts.com/import-re-regular-expression) 
-
 
 
 
