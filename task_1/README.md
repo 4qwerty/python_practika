@@ -1,8 +1,10 @@
-#Пояснення роботи Task-1
+#  Пояснення роботи Task-1
 
 ```python
 import re
 ```
+Як було написано на [python-scripts.com ](https://python-scripts.com/import-re-regular-expression) 
+
 
 
 
