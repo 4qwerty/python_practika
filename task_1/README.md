@@ -12,11 +12,17 @@ import re
 
  `str = input("Введіть рядок: ")`
  Створюємо ліст для введення рядка, ну відповідно заповнюємо його
-
+___
+Виділямо цифри від слів
  ```python
 numb = re.findall(r'\d+', str)
 str = re.sub(r"\d+", "", str, flags=re.UNICODE)
 numb = [int(i) for i in numb]
+```
+Вивводимо окемо розділени
+```python
+print("\n Рядок без чисел:\n", str)
+print("\n Числа з рядка:\n", numb)
 ```
 
 ![изображение](https://user-images.githubusercontent.com/50421230/124450539-3557b600-dd8d-11eb-9022-50382b1dc5fc.png)
