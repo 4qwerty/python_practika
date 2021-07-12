@@ -17,15 +17,17 @@ print("\n Кожне слово починається і закінчуєтьс
 print( " " + result[:-1])
      
 #Виводимо максимальне число в масиві
-max_numb = max(numb)
-print("\n Максимальне число в масиві:", max_numb)
+if not numb:
+  print("\n Ліст чисел пустий!")
+else:
+    max_numb = max(numb)
+    print("\n Максимальне число в масиві:", max_numb)
 
 #Робим масив з чисел піднятих в степінь по їх індексу
-arr_vals = []
-for i in range(len(numb)):
-    
-    if i !=numb.index(max_numb):
-        temp = numb[i] 
-        stup=temp** i
-        arr_vals.insert(i, stup)
-print("Масив чисел в степені по їх індексу:\n", arr_vals)
+    arr_vals = []
+    for i in range(len(numb)):
+        if i !=numb.index(max_numb):
+            temp = numb[i] 
+            stup=temp** i
+            arr_vals.insert(i, stup)
+    print("Масив чисел в степені по їх індексу:\n", arr_vals)
